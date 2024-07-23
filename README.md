@@ -27,4 +27,5 @@ OPENAI_API_KEY=abc123
 ```
 
 ## Reference
-- []()
+- [open ai docs](https://platform.openai.com/docs/quickstart)
+- [Aya -> open-api doc](https://ayaa17.github.io/myVitepress/ai/application/open-api.html)
