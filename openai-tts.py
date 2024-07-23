@@ -3,7 +3,7 @@ from pathlib import Path
 from openai import OpenAI
 
 
-def tts(_client, _input, _model='tts-1', _voice='alloy', _file_path='./speech4.mp3'):
+def tts(_client, _input, _model='tts-1', _voice='alloy', _file_path='./speech.mp3'):
     """
     The Audio API provides a speech endpoint based on our TTS (text-to-speech) model. It comes with 6 built-in voices
     and can be used to:
