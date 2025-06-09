@@ -14,6 +14,9 @@ To install the package, use:
     pip install --upgrade openai
     pip install python-dotenv
     pip install requests
+    
+    # open-ai agent
+    pip install openai-agents
 ```
 
 ## Set api key
@@ -29,3 +32,4 @@ OPENAI_API_KEY=abc123
 ## Reference
 - [open ai docs](https://platform.openai.com/docs/quickstart)
 - [Aya -> open-api doc](https://ayaa17.github.io/myVitepress/ai/application/open-api.html)
+- [ai agent sample code](https://github.com/KodySimpson/agents-sdk)
