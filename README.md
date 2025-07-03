@@ -33,3 +33,4 @@ OPENAI_API_KEY=abc123
 - [open ai docs](https://platform.openai.com/docs/quickstart)
 - [Aya -> open-api doc](https://ayaa17.github.io/myVitepress/ai/application/open-api.html)
 - [ai agent sample code](https://github.com/KodySimpson/agents-sdk)
+- [ai agent mcp](https://github.com/openai/openai-agents-python/tree/main/examples/mcp/filesystem_example)
